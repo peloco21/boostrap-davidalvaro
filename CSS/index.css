@@ -16,3 +16,9 @@ h1{
 body{
     font-size: 10px;
 }
+
+.div2{
+    float: left;
+    height: 50px;
+    width: 50px;
+}
