@@ -1,6 +1,6 @@
 .div1{
     background-image: url(../IMG/pngtree-gourmet-food-tableware-gray-and-black-creative-banner-picture-image_1495471.jpg);
-    height: 100px;
+    height: 150px;
 }
 
 h1{
@@ -8,17 +8,31 @@ h1{
     color: white;
 }
 
+.titulo1{
+   padding-top: 45px;
+   color: white;
+}
+
+.titulo2{
+    margin-left: 2%;
+    margin-top: 2%;
+}
 .p1{
     text-align: center;
     color: white;
+    height: 43px;
 }
 
 body{
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .div2{
     float: left;
     height: 50px;
     width: 50px;
+}
+
+h3{
+    text-align: center;
 }
