@@ -59,3 +59,27 @@ h3{
     float: left;
     margin-left: 550px;
 }
+
+footer{
+    margin-top: 400px;
+    background-color: black;
+    height: 80px;
+    color: white;
+  }
+
+  .div8{
+    float: left;
+    width: 500px;
+     }
+    
+     .div9{
+    text-align: center;
+    float: left;
+    width: 500px;
+     }
+    
+     .div10{
+    float: left;
+    width: 500px;
+    text-align: right;
+     }
